@@ -1,1 +1,1 @@
-# slot_map
+moved to https://github.com/SergeyMakeev/SlotMap
